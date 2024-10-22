@@ -15,7 +15,7 @@ const routes: Routes = [
         path: 'dynamic', component: DynamicPageComponent
       },
       {
-        path: 'switcher', component: SwitchesPageComponent
+        path: 'switches', component: SwitchesPageComponent
       },
       {
         path: '**',
