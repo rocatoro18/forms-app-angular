@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
 
+//https://v16.angular.io/guide/reactive-forms
 const xbox = {
   name: 'Xbox Series X',
   price: 499,
